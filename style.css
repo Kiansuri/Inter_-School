@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+
+text-align: center;    
+font-family: ;
+}
+
+
+.img {
+    width: 400px;
+    margin-bottom: 50px;
+    margin-right: 250;
+    height: 300px;
+}
+
+#hoby {
+    position: absolute;
+    height: 800px;
+    overflow: hidden;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: cursive
+}
+
+
+
+#defenation {
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+  
+
+
+p {
+    
+    
+    font-size: 40px;
+    
+}
+
+.myhoby {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.link {
+    float: left;
+    color:aqua;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family:fantasy
+    font-size: 20px;
+    
+    
+
+
+}
+
+.link:hover {
+    background-color: rgb(196, 197, 218);
+}
+
+
+.container {
+    display: grid;
+    
+    grid-template-columns: 1fr 1fr ;
+    
+   }
+   
+   img {
+     width: 600px;
+    height: 600px;
+   }
+   
+   #pp {
+    font-size: x-large;
+   }
+
+   .img3 {
+    height: 200px;
+   }
+
+.center {
+    
+    height: 300px;
+    width: 50% ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
